@@ -1,10 +1,10 @@
 {
-  "devDependencies": {
-    "gh-pages": "^6.2.0"
-  },
-  "scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
-}
-
+	"homepage": "https://Avi2492.github.io/inspire-life",
+	"devDependencies": {
+		"gh-pages": "^6.2.0"
+	},
+	"scripts": {
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
+	}
 }
